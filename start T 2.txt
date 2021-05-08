@@ -3,3 +3,5 @@ mac book pro
 
 
 Update 1.0
+
+Update "git origin doesn't in the repository"
